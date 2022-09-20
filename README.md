@@ -10,6 +10,7 @@
 ## How to Use!
 ### Linux
 ```bash
+git clone https://github.com/ibrahKrep/animesearch
 cd  animesearch
 python -m venv venv
 . venv/bin/activate
@@ -18,6 +19,7 @@ flask run
 ```
 ### Windows
 ```bash
+git clone https://github.com/ibrahKrep/animesearch
 cd animesearch
 py -3 -m venv venv
 venv\Scripts\activate
